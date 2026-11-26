@@ -1,0 +1,40 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Dados fiscais e estado local da automação
+CLIENTES/
+DOCUMENTOS/
+DOCUMENTAÇÃO/
+SPEDS/
+PLANILHAS MA/
+LOTE CNPJ.txt
+RELATORIO_DOCUMENTOS.txt
+AVISO_SEM_PROCURACAO.txt
+progresso_lote.json
+config.json
+Automacao_Fiscal_Chrome_Profile/
+*.crdownload
+*.tmp
+*.log
+
+# Credenciais, certificados e documentos exportados
+.env
+.env.*
+credentials.json
+*.pickle
+*.pkl
+*.p12
+*.pfx
+*.pem
+*.key
+*.jks
+*.xml
+*.csv
+*.ofx
+*.xlsx
+*.xls
+*.xlsm
+*.pdf
+*.rar
+*.zip
